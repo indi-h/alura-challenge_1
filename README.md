@@ -1,6 +1,6 @@
 <h1 align="center">Encriptador de texto</h1>
 
-                        <img id="image-1" src="./images/main.png" alt="image-1">
+                        <img class="image-1" src="./images/main.png" alt="image-1">
 
 
 <p align="center">
